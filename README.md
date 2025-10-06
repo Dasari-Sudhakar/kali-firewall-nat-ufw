@@ -22,9 +22,6 @@ To configure and secure a Kali Linux system using UFW firewall and NAT settings,
 - ❌ FTP and ICMP blocked  
 - NAT and IP forwarding enabled successfully
 
-## 📄 Documentation
-- [📥 Download Full Project Report (PDF)](./Kali_Firewall_Project_Report_DasariSudhakar.pdf)
-
 ## 👤 Author
 **Dasari Sudhakar**  
 *Aspiring Cybersecurity Professional*
